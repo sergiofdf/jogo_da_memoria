@@ -62,6 +62,7 @@ body{
     background: rgb(148, 3, 3) ;
     border-radius: 5px;
     border: 1px solid black;
+    backface-visibility: hidden;
 }
 
 .front-face{
